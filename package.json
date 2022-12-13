@@ -22,7 +22,7 @@
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@memory13/eslint-config-px": "^1.0.4",
+    "@memory13/eslint-config-px": "^1.0.10",
     "@types/jsdom": "^20.0.1",
     "@types/node": "^18.11.9",
     "@vue/test-utils": "^2.2.4",
